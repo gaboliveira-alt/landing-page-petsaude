@@ -239,12 +239,14 @@ ul li i {
   align-items: center;
   gap: 0.4rem;
   margin-top: 1rem;
+  padding: 0;
 }
 
 
 .footer-logo {
   height: 60px;
-  display: inline-block;
+  display: block;
+  margin: 0;
 }
 
 
